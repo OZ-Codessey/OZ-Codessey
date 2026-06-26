@@ -38,9 +38,10 @@
 
 
 
-![홍보용](보너스/보너스1/01_info4.png)<br><br><br><br><br>
-![보고서 시각화1](보너스/보너스1/02_info1.png)<br><br><br><br><br>  
-![보고서 시각화2](보너스/보너스1/03_info2.png) 
+![홍보용](보너스/bonus-01/01_info4.png)<br><br><br><br><br>
+![보고서 시각화1](보너스/bonus-01/02_info1.png)<br><br><br><br><br>  
+![보고서 시각화2](보너스/bonus-01/03_info2.png)   
+
 
 
 

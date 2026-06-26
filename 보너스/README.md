@@ -1,6 +1,6 @@
 
 2종류를 만들었습니다.
-
+<!--
 ## 홍보용
 <br>
 <img width="787" height="787" alt="info4" src="https://github.com/user-attachments/assets/2f415830-b24a-4537-8876-1e5be5b48cc1" />
@@ -34,6 +34,8 @@
 <br>
 
 <img width="1408" height="768" alt="info1" src="https://github.com/user-attachments/assets/adbfa020-54fa-42fa-8f21-222d7cf22509" />
+-->  
+
 
 
 

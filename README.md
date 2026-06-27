@@ -31,12 +31,23 @@ ChatGPT (GPT-5.5) 
 
 
 ### 저장소 구성
-* 01_도구비교분석.pdf
-* 02_업무업무과업.md
-* 03_시스템 담당.md
-* 04_Few-shot.pdf
-* 05_단계적 금지(V1-->V2).pdf
-* 06_환각검증.md
-* 07_10턴 요약.md
-* 08_원문(10턴).md
-* bonus mission
+## 📂 구조도
+
+├── [01_도구비교분석](01_tool_comparison.md)-제출용
+├── [03_시스템설계문서.md](03_system_prompt.md)-제출용
+├── [07_실행로그.md](07_10turn_summary.md)-제출용
+│   └── [08_원문(10턴).md](08_원문(10%20turn).md)
+│
+├── [02_업무과업보고서.md](02_automation_tasks.md)
+├── [04_few-shot.md](04_few_shot.md)
+├── [05_v1->v2.md](05_prompt_evolution_v2.md)
+└── [06_환각검증.md](06_hallucination_check.md)
+│
+└── 보너스/
+    ├── [README.md](보너스/README.md)
+    └── bonus-01/
+        ├── [홍보용](보너스/bonus-01/01_info4.png)
+        ├── [보고서 시각화1](보너스/bonus-01/02_info1.png)
+        └── [보고서 시각화2](보너스/bonus-01/03_info2.png)  
+        
+        
